@@ -5,9 +5,9 @@ def returning():
     a=chr(a).encode()
     
     return a
-x=31
-y=10
-outs="level.dat"
+x=200
+y=200
+outs="bitmap.dat"
 print( "\n\033c\033[40;37m\ngive the x value of the table ? ")
 #x=input()
 print( "\n\033[40;37m\ngive the y value of the table ? ")
