@@ -1,2 +1,2 @@
 
-binary bitmap files builder, build a level.dat file random values
+binary bitmap files builder, build a bitmap.dat file random values
