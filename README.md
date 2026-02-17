@@ -1,2 +1,1 @@
-
-binary bitmap files builder, build a bitmap.dat file random values
+wizard genareter for mounter code to past on power automate
